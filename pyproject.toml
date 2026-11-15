@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "termimato"
+dynamic = ["version"]
+description = "Asynchronous text animations and effects for the terminal"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [{name = "Mint"}]
+keywords = ["terminal", "cli", "animation", "asyncio", "ansi", "spinner", "progress-bar", "typewriter"]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Environment :: Console",
+    "Framework :: AsyncIO",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Terminals",
+]
+
+[project.urls]
+Homepage = "https://github.com/Juic3-me/Termimato"
+Issues = "https://github.com/Juic3-me/Termimato/issues"
+Changelog = "https://github.com/Juic3-me/Termimato/blob/main/CHANGELOG.md"
+
+[tool.setuptools]
+packages = ["termimato"]
+
+[tool.setuptools.dynamic]
+version = {attr = "termimato.__version__"}

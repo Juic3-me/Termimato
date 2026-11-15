@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="415px" font-size="16px">
+<style>
+@font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; -webkit-size-adjust: 109%; size-adjust: 109%; }
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.cc {fill: #616e7f;}
+.body {fill: #f85149;}
+.stem {fill: #3fb950;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="415px" fill="#161b22" rx="15"/>
+<text>
+<tspan x="20" y="30" class="stem">                \ | /</tspan>
+<tspan x="20" y="50" class="stem">              .-.\|/.-.</tspan>
+<tspan x="20" y="70" class="stem">             '-._\|/_.-'</tspan>
+<tspan x="20" y="90" class="body">          .---------------.</tspan>
+<tspan x="20" y="110" class="body">       /                     \</tspan>
+<tspan x="20" y="130" class="body">     /                         \</tspan>
+<tspan x="20" y="150" class="body">    /                           \</tspan>
+<tspan x="20" y="170" class="body">   |  .-'`                       |</tspan>
+<tspan x="20" y="190" class="body">   |  / '                        |</tspan>
+<tspan x="20" y="210" class="body">   |         $ termimato         |</tspan>
+<tspan x="20" y="230" class="body">   |           &gt;_ ~ ~ ~          |</tspan>
+<tspan x="20" y="250" class="body">   |                             |</tspan>
+<tspan x="20" y="270" class="body">    \                           /</tspan>
+<tspan x="20" y="290" class="body">     \                         /</tspan>
+<tspan x="20" y="310" class="body">       \                     /</tspan>
+<tspan x="20" y="330" class="body">          `---------------'</tspan>
+</text>
+<text fill="#c9d1d9">
+<tspan x="380" y="30"><tspan>termimato@pypi</tspan> <tspan class="cc">———————————————————————————————————————————</tspan></tspan>
+<tspan x="380" y="50"><tspan class="key">Name</tspan>:<tspan class="cc"> .......................................... </tspan><tspan class="value">Termimato</tspan></tspan>
+<tspan x="380" y="70"><tspan class="key">Version</tspan>:<tspan class="cc"> ........................................... </tspan><tspan class="value">2.0.1</tspan></tspan>
+<tspan x="380" y="90"><tspan class="key">Language</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">Python 3.9+</tspan></tspan>
+<tspan x="380" y="110"><tspan class="key">License</tspan>:<tspan class="cc"> ............................................. </tspan><tspan class="value">MIT</tspan></tspan>
+<tspan x="380" y="130"><tspan class="key">Install</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">pip install termimato</tspan></tspan>
+<tspan x="380" y="150"><tspan class="key">Platforms</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Linux, macOS, Windows, Termux</tspan></tspan>
+<tspan x="380" y="190"><tspan>- Effects</tspan> <tspan class="cc">————————————————————————————————————————————————</tspan></tspan>
+<tspan x="380" y="210"><tspan class="key">Text</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">type_writer, scanner, glitch</tspan></tspan>
+<tspan x="380" y="230"><tspan class="key">Output</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">fade_out, rainbow_text</tspan></tspan>
+<tspan x="380" y="250"><tspan class="key">Scene</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">particle_explosion</tspan></tspan>
+<tspan x="380" y="270"><tspan class="key">Progress</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">progress_bar, ProgressAnimator</tspan></tspan>
+<tspan x="380" y="290"><tspan class="key">Background</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">SpinnerAnimator, CountdownAnimator</tspan></tspan>
+<tspan x="380" y="330"><tspan>- Contact</tspan> <tspan class="cc">————————————————————————————————————————————————</tspan></tspan>
+<tspan x="380" y="350"><tspan class="key">Questions</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">Telegram @vulp3s</tspan></tspan>
+<tspan x="380" y="370"><tspan class="key">Bugs</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">GitHub Issues</tspan></tspan>
+<tspan x="380" y="390"><tspan class="key">Source</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">github.com/Juic3-me/Termimato</tspan></tspan>
+</text>
+</svg>

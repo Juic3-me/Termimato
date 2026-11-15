@@ -1,0 +1,22 @@
+name: Feature request / Предложить функцию
+description: A new effect, parameter or improvement. / Новый эффект, параметр или улучшение.
+labels: [enhancement]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What should be added / Что нужно добавить
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it is needed / Зачем это нужно
+      description: A real use case helps most. / Лучше всего помогает пример из реальной задачи.
+    validations:
+      required: true
+  - type: textarea
+    id: example
+    attributes:
+      label: How the API could look / Как мог бы выглядеть API
+      render: python

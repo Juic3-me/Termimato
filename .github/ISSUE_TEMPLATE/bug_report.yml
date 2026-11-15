@@ -1,0 +1,44 @@
+name: Bug report / Сообщить об ошибке
+description: Something works incorrectly or raises an exception. / Что-то работает неправильно или падает с исключением.
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happens / Что происходит
+      description: Describe the problem and what you expected instead. / Опишите проблему и ожидаемый результат.
+    validations:
+      required: true
+  - type: textarea
+    id: code
+    attributes:
+      label: Minimal code to reproduce / Минимальный код для воспроизведения
+      render: python
+    validations:
+      required: true
+  - type: textarea
+    id: traceback
+    attributes:
+      label: Traceback or screenshot / Трейсбек или скриншот
+      render: text
+  - type: input
+    id: version
+    attributes:
+      label: Termimato version / Версия Termimato
+      description: "Output of: pip show termimato"
+    validations:
+      required: true
+  - type: input
+    id: python
+    attributes:
+      label: Python version / Версия Python
+      placeholder: "3.12.3"
+    validations:
+      required: true
+  - type: input
+    id: terminal
+    attributes:
+      label: OS and terminal / ОС и терминал
+      placeholder: "Android 14, Termux 0.118"
+    validations:
+      required: true

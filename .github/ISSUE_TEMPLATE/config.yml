@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Question or idea / Вопрос или идея
+    url: https://github.com/Juic3-me/Termimato/discussions
+    about: Usage questions and ideas go to Discussions. / Вопросы по использованию и идеи пишите в Discussions.
+  - name: Telegram
+    url: https://t.me/vulp3s
+    about: Direct contact with the author. / Связь с автором напрямую.
