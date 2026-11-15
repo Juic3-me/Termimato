@@ -17,10 +17,11 @@
 <br>
 
 <p align="center">
-  <a href="https://pypi.org/project/termimato"><img alt="PyPI" src="https://img.shields.io/pypi/v/termimato?style=flat-square&color=ffa657&labelColor=161b22"></a>
-  <a href="https://pypi.org/project/termimato"><img alt="Python" src="https://img.shields.io/pypi/pyversions/termimato?style=flat-square&color=a5d6ff&labelColor=161b22"></a>
-  <a href="https://github.com/Juic3-me/Termimato/actions/workflows/ci.yml"><img alt="CI" src="https://img.shields.io/github/actions/workflow/status/Juic3-me/Termimato/ci.yml?branch=main&style=flat-square&label=tests&labelColor=161b22"></a>
-  <a href="https://github.com/Juic3-me/Termimato/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-616e7f?style=flat-square&labelColor=161b22"></a>
+  <a href="https://pypi.org/project/termimato"><img alt="PyPI" src="https://img.shields.io/badge/PyPI-termimato%202.0.1-ffa657?style=flat-square&logo=pypi&logoColor=a5d6ff&labelColor=161b22"></a>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3.9%2B-ffa657?style=flat-square&logo=python&logoColor=a5d6ff&labelColor=161b22">
+  <a href="https://github.com/Juic3-me/Termimato/actions/workflows/ci.yml"><img alt="CI" src="https://img.shields.io/badge/CI-GitHub%20Actions-a5d6ff?style=flat-square&logo=githubactions&logoColor=ffa657&labelColor=161b22"></a>
+  <a href="https://github.com/Juic3-me/Termimato/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-616e7f?style=flat-square&labelColor=161b22"></a>
+  <a href="https://t.me/vulp3s"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@vulp3s-ffa657?style=flat-square&logo=telegram&logoColor=a5d6ff&labelColor=161b22"></a>
 </p>
 
 ## О проекте
